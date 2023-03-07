@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "product": "Sofa",
+    "price": 999.99
+  },
+  {
+    "id": 2,
+    "product": "Bed",
+    "price": 2999.99
+  },
+  {
+    "id": 3,
+    "product": "Car",
+    "price": 99999.99
+  },
+  {
+    "id": 4,
+    "product": "Blanket",
+    "price": 9.99
+  }
+]
